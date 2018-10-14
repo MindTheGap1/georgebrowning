@@ -19,8 +19,8 @@ a {
     margin-left: auto;
     margin-right: auto;
     background-color: #fdfdfd;
-    border-bottom: 4px dotted #000000;
-    border-top: 4px dotted #000000;
+    border-bottom: 4px dotted #ecb707;
+    border-top: 4px dotted #ecb707;
 }
 
 #navbar {
@@ -40,4 +40,17 @@ a {
 #title-header {
     text-align: center;
     font-size:3rem;
+    color: #ecb707;
+}
+#intro {
+    font-size: 1.5rem;
+    color: #ecb707;
+}
+
+#whatido {
+    text-align: left;
+}
+
+#whatido li {
+    text-align: left;
 }
